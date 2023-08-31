@@ -13,3 +13,5 @@
 ![phone](https://github.com/FahadInsaf/SignIn-SignUp-And-OTP-Using-Firebase-/assets/105406128/d7e22d33-f71c-4ebc-8270-4ec8d6cb6123)
 # verification screen
 ![verification_screen](https://github.com/FahadInsaf/SignIn-SignUp-And-OTP-Using-Firebase-/assets/105406128/b3cb349d-56ed-4175-81df-314e64aada2f)
+# dashboard screen
+![dashboard_screen](https://github.com/FahadInsaf/SignIn-SignUp-And-OTP-Using-Firebase-/assets/105406128/e035ec51-c382-4e8a-a8cb-a7ce460c4fd2)
